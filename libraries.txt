@@ -1,0 +1,24 @@
+Create next-app
+
+*** npm install ***
+0. npm i
+1. react-hook-form
+2. react-icons
+3. react-hot-toast
+4. react-zustand
+5. axios
+6. npm i -D prisma
+7. next-auth @prisma/client @next-auth/prisma-adapter
+8. bcrypt
+9. -D @types/bcrypt 
+10. query-string
+11. world-countries
+12. react-select
+13. leaflet
+14. -D @types/leaflet 
+15. react-leaflet
+
+*** Execution ***
+1. npx prisma init
+2. npx prisma db push
+3. 
